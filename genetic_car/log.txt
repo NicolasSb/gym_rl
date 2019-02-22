@@ -1,0 +1,424 @@
+02/22/2019 11:17:16 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:17:16 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:17:55 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:17:55 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:18:24 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:18:24 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:19:21 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:19:21 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:20:05 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:20:05 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:20:38 AM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 11:20:38 AM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 11:20:50 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:20:50 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:20:53 AM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 11:20:53 AM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 11:21:42 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:21:42 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:21:44 AM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 11:21:44 AM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 11:24:35 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:24:35 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:30:51 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:30:51 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:32:45 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:32:45 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:34:50 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:34:50 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:41:58 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:41:58 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:44:18 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:44:18 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:44:27 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:44:27 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:44:42 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:44:42 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:44:57 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:44:57 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:45:37 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:45:37 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:46:07 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:46:07 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:46:37 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:46:37 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:47:00 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:47:00 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:50:53 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:50:53 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:51:05 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:51:05 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:51:26 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:51:26 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:51:52 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:51:52 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:52:21 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:52:21 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:53:08 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:53:08 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:53:59 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:53:59 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:54:39 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:54:39 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:55:01 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:55:01 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:55:58 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:55:58 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:56:26 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:56:26 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:56:35 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:56:35 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:56:50 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:56:50 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:57:47 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:57:47 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:58:01 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:58:01 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:58:13 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:58:13 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 11:58:28 AM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 11:58:28 AM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:05:15 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:05:15 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:10:16 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:10:16 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:10:44 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:10:44 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:11:14 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:11:14 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:15:24 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:15:24 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:16:40 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:16:40 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:17:04 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:17:04 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:17:36 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:17:36 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:17:48 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:17:48 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 12:18:01 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 12:18:01 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 01:11:39 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 01:11:39 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:28:45 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:28:45 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:29:25 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:29:25 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:29:57 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:29:57 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:34:55 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:34:55 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:35:21 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:35:21 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:36:26 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:36:26 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:36:52 PM - INFO - Generation average: -100000.00%
+02/22/2019 02:36:52 PM - INFO - --------------------------------------------------------------------------------
+02/22/2019 02:36:52 PM - INFO - ***Doing generation 2 of 10***
+02/22/2019 02:37:40 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:37:40 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:40:48 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:40:48 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_151:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_150:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_149:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_148:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_147:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_146:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_145:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_144:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_143:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_142:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:40:57 PM - ERROR - ==================================
+Object was never used (type <class 'tensorflow.python.framework.ops.Tensor'>):
+<tf.Tensor 'IsVariableInitialized_141:0' shape=() dtype=bool>
+If you want to mark it as used call its "mark_used()" method.
+It was originally created here:
+  File "main.py", line 111, in <module>
+    main()  File "main.py", line 108, in main
+    generate(generations, population, nn_param_choices)  File "main.py", line 62, in generate
+    train_networks(networks)  File "main.py", line 26, in train_networks
+    network.train()  File "/home/silicom/Documents/gym/genetic_car/network.py", line 42, in train
+    self.accuracy = train_and_score(self.network)  File "/home/silicom/Documents/gym/genetic_car/train.py", line 81, in train_and_score
+    dqn.compile(Adam(lr=1e-3), metrics=['mae'])  File "/home/silicom/.local/lib/python3.5/site-packages/rl/agents/dqn.py", line 171, in compile
+    self.target_model = clone_model(self.model, self.custom_model_objects)  File "/home/silicom/.local/lib/python3.5/site-packages/rl/util.py", line 15, in clone_model
+    clone.set_weights(model.get_weights())  File "/home/silicom/.local/lib/python3.5/site-packages/keras/engine/network.py", line 492, in get_weights
+    return K.batch_get_value(weights)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 2420, in batch_get_value
+    return get_session().run(ops)  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in get_session
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/keras/backend/tensorflow_backend.py", line 199, in <listcomp>
+    [tf.is_variable_initialized(v) for v in candidate_vars])  File "/home/silicom/.local/lib/python3.5/site-packages/tensorflow/python/util/tf_should_use.py", line 189, in wrapped
+    return _add_should_use_warning(fn(*args, **kwargs))
+==================================
+02/22/2019 02:41:07 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:41:07 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:42:41 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:42:41 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:45:01 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:45:01 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:45:20 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:45:20 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:47:32 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:47:32 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:48:04 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:48:04 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:53:14 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:53:14 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:53:40 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 02:53:40 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 02:54:53 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:54:53 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:55:39 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 02:55:39 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 02:56:35 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 02:56:35 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 02:58:39 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 02:58:39 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:07:28 PM - INFO - ***Evolving 10 generations with population 20***
+02/22/2019 03:07:28 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:09:21 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 03:09:21 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:30:48 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:30:48 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:31:18 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 03:31:18 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:31:48 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:31:48 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:33:45 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 03:33:45 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:35:26 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:35:26 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:35:35 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 03:35:35 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:35:51 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:35:51 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:36:14 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 03:36:14 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:40:03 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:40:03 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:40:27 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/Grammar.txt
+02/22/2019 03:40:27 PM - INFO - Generating grammar tables from /usr/lib/python3.5/lib2to3/PatternGrammar.txt
+02/22/2019 03:41:06 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:41:06 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:45:59 PM - INFO - Generation average: -200000.00%
+02/22/2019 03:45:59 PM - INFO - --------------------------------------------------------------------------------
+02/22/2019 03:45:59 PM - INFO - ***Doing generation 2 of 10***
+02/22/2019 03:47:07 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:47:07 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:50:50 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:50:50 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:51:22 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:51:22 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 03:58:29 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 03:58:29 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:22:07 PM - INFO - Generation average: -800000.00%
+02/22/2019 04:22:07 PM - INFO - --------------------------------------------------------------------------------
+02/22/2019 04:22:07 PM - INFO - ***Doing generation 2 of 10***
+02/22/2019 04:32:53 PM - INFO - ***Evolving 10 generations with population 10***
+02/22/2019 04:32:53 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:33:22 PM - INFO - ***Evolving 10 generations with population 4***
+02/22/2019 04:33:22 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:36:16 PM - INFO - ***Evolving 10 generations with population 4***
+02/22/2019 04:36:16 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:36:39 PM - INFO - ***Evolving 10 generations with population 4***
+02/22/2019 04:36:39 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:42:33 PM - INFO - ***Evolving 10 generations with population 4***
+02/22/2019 04:42:33 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:42:50 PM - INFO - ***Evolving 10 generations with population 4***
+02/22/2019 04:42:50 PM - INFO - ***Doing generation 1 of 10***
+02/22/2019 04:45:28 PM - INFO - Generation average: -100000.00%
+02/22/2019 04:45:28 PM - INFO - --------------------------------------------------------------------------------
+02/22/2019 04:45:28 PM - INFO - ***Doing generation 2 of 10***
+02/22/2019 04:47:02 PM - INFO - Generation average: -100000.00%
+02/22/2019 04:47:02 PM - INFO - --------------------------------------------------------------------------------
+02/22/2019 05:06:44 PM - INFO - ***Evolving 10 generations with population 4***
+02/22/2019 05:06:44 PM - INFO - ***Doing generation 1 of 10***
